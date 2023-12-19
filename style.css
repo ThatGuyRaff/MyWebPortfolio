@@ -117,10 +117,8 @@ h2 {
   height: 450px;
   vertical-align: middle;
   margin: 5px;
-  padding-top: 100px;
-  padding-bottom: 100px;
-  padding-left:100px ;
-  padding-right:50px ;
+  padding: 20px;
+  
 }
 
 /* Skills */
